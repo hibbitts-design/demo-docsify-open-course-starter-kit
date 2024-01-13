@@ -5,11 +5,13 @@
 
 **New:**   
 * Added CSS Markdown class `reverse-columns`
+* Added CSS Markdown class for taller full width header image `header-tall-image-full-width`
 
 **Improved:**   
 * Improved image alignment with two column layouts
 * Improved contrast for unselected Tabs
 * Improved support of logo image in Docsify Sidebar
+* Adjusted display of full width header image
 
 ## [v1.2.10](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.10)
 ### 11/27/2023
