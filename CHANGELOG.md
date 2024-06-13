@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.2.16](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.16)
+### XX/XX/2024
+
+**Improved:**
+* Adjusted bottom margin for summary elements
+
+**Bugfix:**
+* Check the global variable 'standalone' when setting externalLinkTarget
+
 ## [v1.2.15](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.15)
 ### 06/03/2024
 
