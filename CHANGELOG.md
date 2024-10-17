@@ -1,11 +1,15 @@
 # Changelog
 
 ## [v1.2.20](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.20)
-### 10/15/2024
+### 10/17/2024
+
+**Improved:**
+* Updated CSS with word-wrap for code blocks
 
 **Bugfix:**
 * Scroll offset fix (with thanks and appreciation to @rizdaprasetya for the initial code)
 * Added missing Prism language files
+* Fix formatting conflict with Prism formatted code blocks
 
 ## [v1.2.19](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.2.19)
 ### 10/09/2024
