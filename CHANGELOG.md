@@ -1,7 +1,13 @@
 # Changelog
 
-## [v1.3.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.3.1)
+## [v1.3.2](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.3.2)
 ### XX/XX/2025
+
+**Bugfix:**
+* Set margin instead of padding for images contained in columns
+
+## [v1.3.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.3.1)
+### 03/04/2025
 
 **Improved:**
 * Various minor enhancements to Search plugin
