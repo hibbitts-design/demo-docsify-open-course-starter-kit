@@ -1,16 +1,27 @@
 # Changelog
 
-## [v2.1.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.1)
+## [v2.1.2](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.2)
 ### XX/XX/2026
+
+**Improved:**
+* Search stays within the current course or guide on sites with a folder per course or guide
+* Week 5 reading: an article whose preview card shows, replacing one that now blocks previews
+
+## [v2.1.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.1)
+### 11/17/2026
 
 **New:**
 * Guide cover: `guide-cover` shows a small cover image with a guide's details and Start Reading beside it, at the top of a guide home
 * Site title: a navbar link with `:class=site-title` shows the site's name at the top of pages that hide the sidebar, and on phones
+* Course card list: `card-list-courses` for a Courses page, laid out like `card-list-guides` (three cards in a row), with its own name so courses and guides can be styled apart later
 
 **Improved:**
 * A Topics letter bar (`[A](#a)|[B](#b)|…`) is styled wherever it is on the page, not only as the first paragraph
 * Letters in a Topics letter bar are at least 18px wide, easier to tap or click
 * Topics pages use `##` letter headings, so headings no longer skip a level
+
+**Bugfix:**
+* Module 3 and Module 5 videos, which are no longer on YouTube, are now Nielsen Norman Group's Customer Journey Mapping 101 and AmberlightUX's Usability Testing
 
 ## [v2.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.0)
 ### 11/02/2026
