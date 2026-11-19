@@ -3,9 +3,16 @@
 ## [v2.1.2](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.2)
 ### XX/XX/2026
 
+**New:**
+* Card list in rows: `card-list-rows` shows one card per row, for cards without images, such as a guide's sections
+* Portrait guide cover: `guide-cover-portrait`, added to `guide-cover`, shows a book cover whole at its own shape
+
 **Improved:**
+* A long site title wraps onto a second line on phones instead of running off the page
 * Search stays within the current course or guide on sites with a folder per course or guide
 * Week 5 reading: an article whose preview card shows, replacing one that now blocks previews
+* A guide cover has a faint edge and soft shadow, as in Open Publishing Space, so a light cover stands out from the page
+* A card whose title is a link can be clicked anywhere – on its image, title or text – yet is still one link for keyboard and screen reader users, so its image no longer needs to be a second link
 
 ## [v2.1.1](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v2.1.1)
 ### 11/17/2026
